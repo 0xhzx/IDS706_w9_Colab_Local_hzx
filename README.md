@@ -8,7 +8,7 @@ This problem is from Kaggle. The market research team at AdRight is assigned the
 
 # Output
 
-[Google Colab Link](https://colab.research.google.com/github/0xhzx/IDS706_w9_Colab_Local_hzx/blob/main/Colab_Cardio_Jupyter.ipynb) 
+[![Google Colab Link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0xhzx/IDS706_w9_Colab_Local_hzx/blob/main/Colab_Cardio_Jupyter.ipynb)
 
 
 ## Descriptive statistics
