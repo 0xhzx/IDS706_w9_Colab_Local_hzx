@@ -6,8 +6,11 @@ This problem is from Kaggle. The market research team at AdRight is assigned the
 - Set up a cloud-hosted Jupyter Notebook (e.g., Google Colab)
 - Perform data manipulation tasks on a sample dataset
 
-
 # Output
+
+[Google Colab Link](https://colab.research.google.com/github/0xhzx/IDS706_w9_Colab_Local_hzx/blob/main/Colab_Cardio_Jupyter.ipynb) 
+
+
 ## Descriptive statistics
 ![Alt text](image-3.png)
 
